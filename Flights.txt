@@ -1,0 +1,6 @@
+	F50 : Egypt : NewYork : 50
+
+	F51 : Egypt : Berlin : 30
+
+	F52 : Egypt : Makka : 1
+

@@ -16,9 +16,9 @@ The program stores flight data in a text file named "Flights.txt" located on dri
 
 #### Main Function:
 
-1- Creates three Airline objects (flight1, flight2, flight3) with sample data.
-2- Writes the initial flight data to the text file "Flights.txt".
-3- Presents a menu to the user with options to reserve a seat or exit the program.
+1. Creates three Airline objects (flight1, flight2, flight3) with sample data.
+2. Writes the initial flight data to the text file "Flights.txt".
+3. Presents a menu to the user with options to reserve a seat or exit the program.
 - If the user chooses to reserve a seat:
   - The program displays the available flights.
   - The user enters the flight number they want to reserve a seat on.
